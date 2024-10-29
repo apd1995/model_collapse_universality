@@ -132,7 +132,7 @@ def main(dataset_name, iterations=50):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Dataset augmentation with Logistic Regression")
-    parser.add_argument('--dataset', type=str, required=True, help="Dataset name (titanic, diabetes, heart, breast_cancer, adult, wisconsin_breast_cancer)")
+    parser.add_argument('--dataset', type=str, required=True, help="Dataset name")
     parser.add_argument('--iterations', type=int, default=50, help="Number of iterations for augmentation")
     args = parser.parse_args()
     
