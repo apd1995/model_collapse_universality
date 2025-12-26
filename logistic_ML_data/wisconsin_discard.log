@@ -1,0 +1,166 @@
+2024-09-23 11:49:09,010 - INFO - Iteration 1
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 11:49:10,801 - INFO - Training loss: 0.03783604269630015, Training accuracy: 0.992462311557789
+2024-09-23 11:49:10,802 - INFO - Test loss: 0.10192663800764927, Test accuracy: 0.9649122807017544
+2024-09-23 11:49:10,802 - INFO - Iteration 2
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 11:49:14,122 - INFO - Training loss: 0.014157387304748784, Training accuracy: 0.9949748743718593
+2024-09-23 11:49:14,122 - INFO - Test loss: 0.94213697137914, Test accuracy: 0.9532163742690059
+2024-09-23 11:49:14,123 - INFO - Iteration 3
+2024-09-23 11:49:15,395 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:15,396 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:15,396 - INFO - Iteration 4
+2024-09-23 11:49:16,478 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:16,479 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:16,479 - INFO - Iteration 5
+2024-09-23 11:49:17,568 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:18,640 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:18,640 - INFO - Iteration 6
+2024-09-23 11:49:19,859 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:19,860 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:19,860 - INFO - Iteration 7
+2024-09-23 11:49:20,953 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:20,954 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:20,954 - INFO - Iteration 8
+2024-09-23 11:49:22,038 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:22,039 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:22,039 - INFO - Iteration 9
+2024-09-23 11:49:23,106 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:24,509 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:24,510 - INFO - Iteration 10
+2024-09-23 11:49:25,796 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:25,796 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:25,796 - INFO - Iteration 11
+2024-09-23 11:49:26,874 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:26,875 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:26,875 - INFO - Iteration 12
+2024-09-23 11:49:27,962 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:27,962 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:27,962 - INFO - Iteration 13
+2024-09-23 11:49:29,096 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:29,097 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:29,097 - INFO - Iteration 14
+2024-09-23 11:49:30,278 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:30,278 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:30,279 - INFO - Iteration 15
+2024-09-23 11:49:31,358 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:31,358 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:31,358 - INFO - Iteration 16
+2024-09-23 11:49:32,417 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:32,417 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:32,417 - INFO - Iteration 17
+2024-09-23 11:49:33,454 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:33,454 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:33,454 - INFO - Iteration 18
+2024-09-23 11:49:34,491 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:38,967 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:38,968 - INFO - Iteration 19
+2024-09-23 11:49:40,179 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:40,180 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:40,180 - INFO - Iteration 20
+2024-09-23 11:49:41,263 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:41,263 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:41,263 - INFO - Iteration 21
+2024-09-23 11:49:42,332 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:42,332 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:42,332 - INFO - Iteration 22
+2024-09-23 11:49:43,380 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:43,380 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:43,380 - INFO - Iteration 23
+2024-09-23 11:49:44,419 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:44,420 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:44,420 - INFO - Iteration 24
+2024-09-23 11:49:45,450 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:47,445 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:47,445 - INFO - Iteration 25
+2024-09-23 11:49:48,684 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:48,685 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:48,685 - INFO - Iteration 26
+2024-09-23 11:49:49,763 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:49,763 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:49,763 - INFO - Iteration 27
+2024-09-23 11:49:50,829 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:50,829 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:50,829 - INFO - Iteration 28
+2024-09-23 11:49:51,904 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:51,904 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:51,905 - INFO - Iteration 29
+2024-09-23 11:49:52,978 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:52,978 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:52,978 - INFO - Iteration 30
+2024-09-23 11:49:54,051 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:54,052 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:54,052 - INFO - Iteration 31
+2024-09-23 11:49:55,098 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:55,098 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:55,098 - INFO - Iteration 32
+2024-09-23 11:49:56,165 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:56,166 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:56,166 - INFO - Iteration 33
+2024-09-23 11:49:57,231 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:57,232 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:57,232 - INFO - Iteration 34
+2024-09-23 11:49:58,298 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:58,298 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:58,298 - INFO - Iteration 35
+2024-09-23 11:49:59,371 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:49:59,372 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:49:59,372 - INFO - Iteration 36
+2024-09-23 11:50:00,436 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:00,436 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:00,437 - INFO - Iteration 37
+2024-09-23 11:50:01,515 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:01,516 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:01,516 - INFO - Iteration 38
+2024-09-23 11:50:02,603 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:02,603 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:02,603 - INFO - Iteration 39
+2024-09-23 11:50:03,653 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:03,654 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:03,654 - INFO - Iteration 40
+2024-09-23 11:50:04,701 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:04,702 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:04,702 - INFO - Iteration 41
+2024-09-23 11:50:05,756 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:05,756 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:05,756 - INFO - Iteration 42
+2024-09-23 11:50:06,828 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:06,828 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:06,828 - INFO - Iteration 43
+2024-09-23 11:50:07,897 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:07,898 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:07,898 - INFO - Iteration 44
+2024-09-23 11:50:08,968 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:08,968 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:08,968 - INFO - Iteration 45
+2024-09-23 11:50:10,029 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:10,029 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:10,029 - INFO - Iteration 46
+2024-09-23 11:50:11,085 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:11,086 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:11,086 - INFO - Iteration 47
+2024-09-23 11:50:12,148 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:12,148 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:12,148 - INFO - Iteration 48
+2024-09-23 11:50:13,223 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:13,223 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:13,223 - INFO - Iteration 49
+2024-09-23 11:50:14,295 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:14,295 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286
+2024-09-23 11:50:14,295 - INFO - Iteration 50
+2024-09-23 11:50:15,370 - INFO - Training loss: 2.5115686066483902e-06, Training accuracy: 1.0
+2024-09-23 11:50:15,370 - INFO - Test loss: 1.0539079938338352, Test accuracy: 0.9707602339181286

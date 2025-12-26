@@ -1,0 +1,223 @@
+2024-09-23 23:53:34,150 - INFO - Loading dataset: breast_cancer
+2024-09-23 23:53:34,403 - INFO - Iteration 1
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:53:36,006 - INFO - Train Loss: 0.03715585090052309, Train Accuracy: 0.9886934673366834
+2024-09-23 23:53:36,006 - INFO - Test Loss: 0.10192663800764927, Test Accuracy: 0.9649122807017544
+2024-09-23 23:53:36,006 - INFO - Iteration 2
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:53:37,758 - INFO - Train Loss: 0.030297742030805895, Train Accuracy: 0.9882747068676717
+2024-09-23 23:53:37,758 - INFO - Test Loss: 0.12248701548167452, Test Accuracy: 0.9473684210526315
+2024-09-23 23:53:37,758 - INFO - Iteration 3
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:53:39,780 - INFO - Train Loss: 0.02818091117266753, Train Accuracy: 0.9905778894472361
+2024-09-23 23:53:39,780 - INFO - Test Loss: 0.10589927307052069, Test Accuracy: 0.9590643274853801
+2024-09-23 23:53:39,781 - INFO - Iteration 4
+2024-09-23 23:53:41,228 - INFO - Train Loss: 0.027599707206749823, Train Accuracy: 0.9909547738693467
+2024-09-23 23:53:41,229 - INFO - Test Loss: 0.12339510701794267, Test Accuracy: 0.9590643274853801
+2024-09-23 23:53:41,229 - INFO - Iteration 5
+2024-09-23 23:53:43,297 - INFO - Train Loss: 0.026769127205223796, Train Accuracy: 0.9903685092127303
+2024-09-23 23:53:43,297 - INFO - Test Loss: 0.11763907955682522, Test Accuracy: 0.9590643274853801
+2024-09-23 23:53:43,297 - INFO - Iteration 6
+2024-09-23 23:53:45,428 - INFO - Train Loss: 0.02892021412146164, Train Accuracy: 0.9892318736539842
+2024-09-23 23:53:45,428 - INFO - Test Loss: 0.10065138759954197, Test Accuracy: 0.9707602339181286
+2024-09-23 23:53:45,428 - INFO - Iteration 7
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:53:48,468 - INFO - Train Loss: 0.0271221950833532, Train Accuracy: 0.989321608040201
+2024-09-23 23:53:48,468 - INFO - Test Loss: 0.12930792847574535, Test Accuracy: 0.9649122807017544
+2024-09-23 23:53:48,468 - INFO - Iteration 8
+2024-09-23 23:53:51,276 - INFO - Train Loss: 0.026655083367871837, Train Accuracy: 0.989391401451703
+2024-09-23 23:53:51,276 - INFO - Test Loss: 0.11228850192281975, Test Accuracy: 0.9707602339181286
+2024-09-23 23:53:51,276 - INFO - Iteration 9
+2024-09-23 23:53:53,976 - INFO - Train Loss: 0.02657741413132395, Train Accuracy: 0.9886934673366834
+2024-09-23 23:53:53,976 - INFO - Test Loss: 0.12302923939930457, Test Accuracy: 0.9707602339181286
+2024-09-23 23:53:53,976 - INFO - Iteration 10
+2024-09-23 23:53:57,118 - INFO - Train Loss: 0.02648453474224845, Train Accuracy: 0.9881224303334856
+2024-09-23 23:53:57,118 - INFO - Test Loss: 0.11354287432900588, Test Accuracy: 0.9707602339181286
+2024-09-23 23:53:57,119 - INFO - Iteration 11
+2024-09-23 23:54:00,315 - INFO - Train Loss: 0.02635321457697361, Train Accuracy: 0.9884840871021775
+2024-09-23 23:54:00,316 - INFO - Test Loss: 0.11719454588824592, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:00,316 - INFO - Iteration 12
+2024-09-23 23:54:03,712 - INFO - Train Loss: 0.026157983274643068, Train Accuracy: 0.988596830305373
+2024-09-23 23:54:03,712 - INFO - Test Loss: 0.13015105912433092, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:03,712 - INFO - Iteration 13
+2024-09-23 23:54:07,236 - INFO - Train Loss: 0.025368264130232288, Train Accuracy: 0.9890524048815507
+2024-09-23 23:54:07,236 - INFO - Test Loss: 0.11494163653704915, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:07,237 - INFO - Iteration 14
+2024-09-23 23:54:10,792 - INFO - Train Loss: 0.025647949000980007, Train Accuracy: 0.9891122278056952
+2024-09-23 23:54:10,793 - INFO - Test Loss: 0.12475717284391763, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:10,793 - INFO - Iteration 15
+2024-09-23 23:54:15,188 - INFO - Train Loss: 0.025920147989584436, Train Accuracy: 0.9888505025125628
+2024-09-23 23:54:15,188 - INFO - Test Loss: 0.1106269483603393, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:15,188 - INFO - Iteration 16
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:54:20,471 - INFO - Train Loss: 0.026253632428453976, Train Accuracy: 0.9884717706177949
+2024-09-23 23:54:20,471 - INFO - Test Loss: 0.11517469767461597, Test Accuracy: 0.9649122807017544
+2024-09-23 23:54:20,471 - INFO - Iteration 17
+2024-09-23 23:54:24,289 - INFO - Train Loss: 0.0260380248283009, Train Accuracy: 0.9889726409826912
+2024-09-23 23:54:24,290 - INFO - Test Loss: 0.12545125416785002, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:24,290 - INFO - Iteration 18
+2024-09-23 23:54:28,302 - INFO - Train Loss: 0.026099562965634877, Train Accuracy: 0.9887595874107379
+2024-09-23 23:54:28,302 - INFO - Test Loss: 0.11570447100825494, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:28,302 - INFO - Iteration 19
+2024-09-23 23:54:32,576 - INFO - Train Loss: 0.026265068368776297, Train Accuracy: 0.9885678391959799
+2024-09-23 23:54:32,577 - INFO - Test Loss: 0.12841859188277063, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:32,577 - INFO - Iteration 20
+2024-09-23 23:54:37,161 - INFO - Train Loss: 0.025748197101734923, Train Accuracy: 0.9892318736539842
+2024-09-23 23:54:37,161 - INFO - Test Loss: 0.11955676435660947, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:37,161 - INFO - Iteration 21
+2024-09-23 23:54:42,712 - INFO - Train Loss: 0.025811308874484934, Train Accuracy: 0.9893787117405208
+2024-09-23 23:54:42,713 - INFO - Test Loss: 0.12222521632612304, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:42,713 - INFO - Iteration 22
+2024-09-23 23:54:47,146 - INFO - Train Loss: 0.026410440843074486, Train Accuracy: 0.9891850557133494
+2024-09-23 23:54:47,146 - INFO - Test Loss: 0.10279705316049396, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:47,146 - INFO - Iteration 23
+2024-09-23 23:54:51,652 - INFO - Train Loss: 0.026048700261817506, Train Accuracy: 0.9892169179229481
+2024-09-23 23:54:51,652 - INFO - Test Loss: 0.12300511197073837, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:51,652 - INFO - Iteration 24
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:54:58,954 - INFO - Train Loss: 0.02675583056457771, Train Accuracy: 0.9885427135678392
+2024-09-23 23:54:58,954 - INFO - Test Loss: 0.1070405741604611, Test Accuracy: 0.9707602339181286
+2024-09-23 23:54:58,955 - INFO - Iteration 25
+2024-09-23 23:55:04,865 - INFO - Train Loss: 0.026926424132668388, Train Accuracy: 0.9880170081175106
+2024-09-23 23:55:04,866 - INFO - Test Loss: 0.1024433736074478, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:04,866 - INFO - Iteration 26
+2024-09-23 23:55:11,893 - INFO - Train Loss: 0.026343756203101434, Train Accuracy: 0.9890191699236925
+2024-09-23 23:55:11,894 - INFO - Test Loss: 0.114288442232716, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:11,894 - INFO - Iteration 27
+2024-09-23 23:55:17,873 - INFO - Train Loss: 0.02779688315672622, Train Accuracy: 0.9885139985642498
+2024-09-23 23:55:17,873 - INFO - Test Loss: 0.11632511900895172, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:17,873 - INFO - Iteration 28
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:55:26,153 - INFO - Train Loss: 0.028091484859736227, Train Accuracy: 0.9883902269970543
+2024-09-23 23:55:26,154 - INFO - Test Loss: 0.09174064390108311, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:26,154 - INFO - Iteration 29
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:55:34,547 - INFO - Train Loss: 0.027881444058937388, Train Accuracy: 0.9882747068676717
+2024-09-23 23:55:34,547 - INFO - Test Loss: 0.11037536828620118, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:34,548 - INFO - Iteration 30
+2024-09-23 23:55:41,583 - INFO - Train Loss: 0.028207937066544023, Train Accuracy: 0.9880855892365051
+2024-09-23 23:55:41,584 - INFO - Test Loss: 0.09524456456058514, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:41,584 - INFO - Iteration 31
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:55:50,398 - INFO - Train Loss: 0.028317502547722546, Train Accuracy: 0.9878297738693468
+2024-09-23 23:55:50,399 - INFO - Test Loss: 0.09448624881741606, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:50,399 - INFO - Iteration 32
+2024-09-23 23:55:56,972 - INFO - Train Loss: 0.028145503147473293, Train Accuracy: 0.9881224303334856
+2024-09-23 23:55:56,972 - INFO - Test Loss: 0.0961120671829845, Test Accuracy: 0.9707602339181286
+2024-09-23 23:55:56,972 - INFO - Iteration 33
+2024-09-23 23:56:04,148 - INFO - Train Loss: 0.028425209916918832, Train Accuracy: 0.9876588826485369
+2024-09-23 23:56:04,148 - INFO - Test Loss: 0.09724955856014449, Test Accuracy: 0.9707602339181286
+2024-09-23 23:56:04,148 - INFO - Iteration 34
+2024-09-23 23:56:12,276 - INFO - Train Loss: 0.028194657197101583, Train Accuracy: 0.9880832735104091
+2024-09-23 23:56:12,276 - INFO - Test Loss: 0.0982449026396782, Test Accuracy: 0.9707602339181286
+2024-09-23 23:56:12,276 - INFO - Iteration 35
+2024-09-23 23:56:20,572 - INFO - Train Loss: 0.028249658257058535, Train Accuracy: 0.9881351200446677
+2024-09-23 23:56:20,572 - INFO - Test Loss: 0.10300890884566812, Test Accuracy: 0.9707602339181286
+2024-09-23 23:56:20,572 - INFO - Iteration 36
+2024-09-23 23:56:30,583 - INFO - Train Loss: 0.028760761289379363, Train Accuracy: 0.9878446285481461
+2024-09-23 23:56:30,583 - INFO - Test Loss: 0.10564582195181002, Test Accuracy: 0.9707602339181286
+2024-09-23 23:56:30,583 - INFO - Iteration 37
+2024-09-23 23:56:37,012 - INFO - Train Loss: 0.028834015425764477, Train Accuracy: 0.9879000264480297
+2024-09-23 23:56:37,012 - INFO - Test Loss: 0.11217424430270097, Test Accuracy: 0.9649122807017544
+2024-09-23 23:56:37,012 - INFO - Iteration 38
+2024-09-23 23:56:45,887 - INFO - Train Loss: 0.02856671182722029, Train Accuracy: 0.9879525834299704
+2024-09-23 23:56:45,888 - INFO - Test Loss: 0.11080385326754258, Test Accuracy: 0.9707602339181286
+2024-09-23 23:56:45,888 - INFO - Iteration 39
+2024-09-23 23:56:55,868 - INFO - Train Loss: 0.028681239784187768, Train Accuracy: 0.988002512562814
+2024-09-23 23:56:55,869 - INFO - Test Loss: 0.11437215109860846, Test Accuracy: 0.9649122807017544
+2024-09-23 23:56:55,869 - INFO - Iteration 40
+2024-09-23 23:57:05,547 - INFO - Train Loss: 0.028288890483032184, Train Accuracy: 0.988050006128202
+2024-09-23 23:57:05,548 - INFO - Test Loss: 0.1111688033331212, Test Accuracy: 0.9649122807017544
+2024-09-23 23:57:05,548 - INFO - Iteration 41
+2024-09-23 23:57:13,493 - INFO - Train Loss: 0.028620146064408637, Train Accuracy: 0.9879157693228044
+2024-09-23 23:57:13,494 - INFO - Test Loss: 0.10646227597973659, Test Accuracy: 0.9707602339181286
+2024-09-23 23:57:13,494 - INFO - Iteration 42
+2024-09-23 23:57:21,487 - INFO - Train Loss: 0.02846666313158268, Train Accuracy: 0.9874371859296482
+2024-09-23 23:57:21,488 - INFO - Test Loss: 0.10256747329831717, Test Accuracy: 0.9707602339181286
+2024-09-23 23:57:21,488 - INFO - Iteration 43
+2024-09-23 23:57:32,926 - INFO - Train Loss: 0.028475480802757212, Train Accuracy: 0.9873800822293285
+2024-09-23 23:57:32,927 - INFO - Test Loss: 0.09534225494387344, Test Accuracy: 0.9649122807017544
+2024-09-23 23:57:32,927 - INFO - Iteration 44
+2024-09-23 23:57:42,190 - INFO - Train Loss: 0.02825966980750593, Train Accuracy: 0.9880513679508655
+2024-09-23 23:57:42,190 - INFO - Test Loss: 0.10629568060425836, Test Accuracy: 0.9707602339181286
+2024-09-23 23:57:42,191 - INFO - Iteration 45
+2024-09-23 23:57:52,630 - INFO - Train Loss: 0.02819226235257983, Train Accuracy: 0.9880380161677955
+2024-09-23 23:57:52,630 - INFO - Test Loss: 0.10749243422100296, Test Accuracy: 0.9707602339181286
+2024-09-23 23:57:52,630 - INFO - Iteration 46
+2024-09-23 23:58:02,500 - INFO - Train Loss: 0.028205094917046033, Train Accuracy: 0.9879717737624292
+2024-09-23 23:58:02,500 - INFO - Test Loss: 0.10831764465282001, Test Accuracy: 0.9649122807017544
+2024-09-23 23:58:02,500 - INFO - Iteration 47
+2024-09-23 23:58:11,528 - INFO - Train Loss: 0.028423881255777578, Train Accuracy: 0.9878559463986599
+2024-09-23 23:58:11,528 - INFO - Test Loss: 0.10350220347305351, Test Accuracy: 0.9649122807017544
+2024-09-23 23:58:11,528 - INFO - Iteration 48
+2024-09-23 23:58:22,308 - INFO - Train Loss: 0.02849656840564342, Train Accuracy: 0.9871808019690288
+2024-09-23 23:58:22,309 - INFO - Test Loss: 0.10988282517179705, Test Accuracy: 0.9649122807017544
+2024-09-23 23:58:22,309 - INFO - Iteration 49
+2024-09-23 23:58:34,448 - INFO - Train Loss: 0.028536381611103927, Train Accuracy: 0.9876884422110552
+2024-09-23 23:58:34,448 - INFO - Test Loss: 0.11613805422599191, Test Accuracy: 0.9649122807017544
+2024-09-23 23:58:34,449 - INFO - Iteration 50
+2024-09-23 23:58:45,266 - INFO - Train Loss: 0.028670482041129867, Train Accuracy: 0.9878805793674253
+2024-09-23 23:58:45,266 - INFO - Test Loss: 0.12130333742154925, Test Accuracy: 0.9707602339181286

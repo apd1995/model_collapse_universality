@@ -1,0 +1,449 @@
+2024-09-23 23:52:36,727 - INFO - Loading dataset: titanic
+2024-09-23 23:52:38,914 - INFO - Iteration 1
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+2024-09-23 23:52:38,957 - INFO - Train Loss: 0.4781864248660926, Train Accuracy: 0.7783857729138167
+2024-09-23 23:52:38,958 - INFO - Test Loss: 0.4630762705764209, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:38,958 - INFO - Iteration 2
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:38,999 - INFO - Train Loss: 0.4746381399025221, Train Accuracy: 0.7765617875056999
+2024-09-23 23:52:38,999 - INFO - Test Loss: 0.4655899891776934, Test Accuracy: 0.8057324840764332
+2024-09-23 23:52:38,999 - INFO - Iteration 3
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,042 - INFO - Train Loss: 0.4788462662032744, Train Accuracy: 0.7735978112175103
+2024-09-23 23:52:39,042 - INFO - Test Loss: 0.4651931726505125, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:39,042 - INFO - Iteration 4
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,088 - INFO - Train Loss: 0.4787981551330869, Train Accuracy: 0.7737346101231191
+2024-09-23 23:52:39,089 - INFO - Test Loss: 0.46451211415154847, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,089 - INFO - Iteration 5
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,136 - INFO - Train Loss: 0.478517126214384, Train Accuracy: 0.7731418148654811
+2024-09-23 23:52:39,137 - INFO - Test Loss: 0.46380779117671744, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:39,137 - INFO - Iteration 6
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,188 - INFO - Train Loss: 0.48049347746889687, Train Accuracy: 0.7721321086574164
+2024-09-23 23:52:39,189 - INFO - Test Loss: 0.46470586004309783, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,189 - INFO - Iteration 7
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,249 - INFO - Train Loss: 0.47886304047192624, Train Accuracy: 0.7734268125854993
+2024-09-23 23:52:39,249 - INFO - Test Loss: 0.46608041510310827, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,250 - INFO - Iteration 8
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,309 - INFO - Train Loss: 0.4824556034360105, Train Accuracy: 0.7729138166894665
+2024-09-23 23:52:39,309 - INFO - Test Loss: 0.46609919005529027, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:39,309 - INFO - Iteration 9
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,369 - INFO - Train Loss: 0.482208243592441, Train Accuracy: 0.7740082079343366
+2024-09-23 23:52:39,369 - INFO - Test Loss: 0.4655958908172173, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,369 - INFO - Iteration 10
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,430 - INFO - Train Loss: 0.48480799589125845, Train Accuracy: 0.772540728765079
+2024-09-23 23:52:39,430 - INFO - Test Loss: 0.46568443987329194, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:39,431 - INFO - Iteration 11
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,496 - INFO - Train Loss: 0.48678710214290083, Train Accuracy: 0.7724578203374373
+2024-09-23 23:52:39,496 - INFO - Test Loss: 0.46553389142957785, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,496 - INFO - Iteration 12
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,565 - INFO - Train Loss: 0.4882279896581708, Train Accuracy: 0.7716510575607702
+2024-09-23 23:52:39,565 - INFO - Test Loss: 0.46495261693651574, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:39,565 - INFO - Iteration 13
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,631 - INFO - Train Loss: 0.4872199423009753, Train Accuracy: 0.7728161031854602
+2024-09-23 23:52:39,631 - INFO - Test Loss: 0.4648541540757047, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:39,631 - INFO - Iteration 14
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,693 - INFO - Train Loss: 0.4883391743273618, Train Accuracy: 0.7708162334701323
+2024-09-23 23:52:39,693 - INFO - Test Loss: 0.4648410184322965, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:39,693 - INFO - Iteration 15
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,759 - INFO - Train Loss: 0.4871032334906322, Train Accuracy: 0.7706908344733242
+2024-09-23 23:52:39,759 - INFO - Test Loss: 0.4648822390793744, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,759 - INFO - Iteration 16
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,825 - INFO - Train Loss: 0.4877898727033724, Train Accuracy: 0.7709825380220487
+2024-09-23 23:52:39,825 - INFO - Test Loss: 0.46490364853868865, Test Accuracy: 0.7993630573248408
+2024-09-23 23:52:39,826 - INFO - Iteration 17
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,892 - INFO - Train Loss: 0.48567587043942834, Train Accuracy: 0.7731418148654811
+2024-09-23 23:52:39,892 - INFO - Test Loss: 0.46505791293773896, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:39,892 - INFO - Iteration 18
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:39,960 - INFO - Train Loss: 0.48668273883966734, Train Accuracy: 0.7728418172654619
+2024-09-23 23:52:39,961 - INFO - Test Loss: 0.4645634791219731, Test Accuracy: 0.8057324840764332
+2024-09-23 23:52:39,961 - INFO - Iteration 19
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,040 - INFO - Train Loss: 0.48694566840000064, Train Accuracy: 0.7729822161422709
+2024-09-23 23:52:40,040 - INFO - Test Loss: 0.46450558440116596, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,040 - INFO - Iteration 20
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,107 - INFO - Train Loss: 0.4860400577753396, Train Accuracy: 0.7722623933294248
+2024-09-23 23:52:40,107 - INFO - Test Loss: 0.4641398695960989, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,107 - INFO - Iteration 21
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,185 - INFO - Train Loss: 0.4853120226375421, Train Accuracy: 0.7726029100858102
+2024-09-23 23:52:40,186 - INFO - Test Loss: 0.46386738430715774, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,186 - INFO - Iteration 22
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,264 - INFO - Train Loss: 0.4855487077032927, Train Accuracy: 0.7725569499791828
+2024-09-23 23:52:40,264 - INFO - Test Loss: 0.463526121715102, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:40,264 - INFO - Iteration 23
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,339 - INFO - Train Loss: 0.4862053120180157, Train Accuracy: 0.7726858185134519
+2024-09-23 23:52:40,339 - INFO - Test Loss: 0.46376771741535366, Test Accuracy: 0.8057324840764332
+2024-09-23 23:52:40,339 - INFO - Iteration 24
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,427 - INFO - Train Loss: 0.48509875581818745, Train Accuracy: 0.77296853625171
+2024-09-23 23:52:40,428 - INFO - Test Loss: 0.4635203886563343, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:40,428 - INFO - Iteration 25
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,500 - INFO - Train Loss: 0.4848736000283273, Train Accuracy: 0.774281805745554
+2024-09-23 23:52:40,500 - INFO - Test Loss: 0.4633580054894663, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,500 - INFO - Iteration 26
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,582 - INFO - Train Loss: 0.48444589989249004, Train Accuracy: 0.7744844707909003
+2024-09-23 23:52:40,582 - INFO - Test Loss: 0.4632580437672651, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,582 - INFO - Iteration 27
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,663 - INFO - Train Loss: 0.4840332484617437, Train Accuracy: 0.7743795192495603
+2024-09-23 23:52:40,663 - INFO - Test Loss: 0.463018654681825, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,663 - INFO - Iteration 28
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,747 - INFO - Train Loss: 0.4845636541655723, Train Accuracy: 0.7751780744374734
+2024-09-23 23:52:40,747 - INFO - Test Loss: 0.4628294918450112, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:40,747 - INFO - Iteration 29
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,840 - INFO - Train Loss: 0.4843007598500787, Train Accuracy: 0.7751481988144094
+2024-09-23 23:52:40,841 - INFO - Test Loss: 0.4627731783082689, Test Accuracy: 0.8057324840764332
+2024-09-23 23:52:40,841 - INFO - Iteration 30
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:40,936 - INFO - Train Loss: 0.4846247434320953, Train Accuracy: 0.7748996072547548
+2024-09-23 23:52:40,936 - INFO - Test Loss: 0.4627679253943445, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:40,936 - INFO - Iteration 31
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,039 - INFO - Train Loss: 0.48478856234650664, Train Accuracy: 0.774452804377565
+2024-09-23 23:52:41,039 - INFO - Test Loss: 0.46266039414045323, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:41,039 - INFO - Iteration 32
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,126 - INFO - Train Loss: 0.4843920095819278, Train Accuracy: 0.7749450731666874
+2024-09-23 23:52:41,127 - INFO - Test Loss: 0.46287494619561, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,127 - INFO - Iteration 33
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,221 - INFO - Train Loss: 0.48401708249616565, Train Accuracy: 0.7751267401625492
+2024-09-23 23:52:41,222 - INFO - Test Loss: 0.4627711268228155, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,222 - INFO - Iteration 34
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,326 - INFO - Train Loss: 0.4841561189282888, Train Accuracy: 0.7749462575727966
+2024-09-23 23:52:41,326 - INFO - Test Loss: 0.46267581975215294, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,326 - INFO - Iteration 35
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,436 - INFO - Train Loss: 0.4833536706972753, Train Accuracy: 0.775421796625627
+2024-09-23 23:52:41,436 - INFO - Test Loss: 0.46280747130759115, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,436 - INFO - Iteration 36
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,535 - INFO - Train Loss: 0.48251031957312285, Train Accuracy: 0.7759086035419824
+2024-09-23 23:52:41,535 - INFO - Test Loss: 0.4627361974098466, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,535 - INFO - Iteration 37
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,631 - INFO - Train Loss: 0.48147467052271986, Train Accuracy: 0.7769457844337245
+2024-09-23 23:52:41,631 - INFO - Test Loss: 0.46268675866229253, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,631 - INFO - Iteration 38
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,738 - INFO - Train Loss: 0.4820903774161216, Train Accuracy: 0.7766670174330913
+2024-09-23 23:52:41,738 - INFO - Test Loss: 0.46260304065794633, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,739 - INFO - Iteration 39
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,842 - INFO - Train Loss: 0.482559765395943, Train Accuracy: 0.7764021887824898
+2024-09-23 23:52:41,842 - INFO - Test Loss: 0.46263678309439943, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,842 - INFO - Iteration 40
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:41,952 - INFO - Train Loss: 0.4826036421858149, Train Accuracy: 0.7760168162557138
+2024-09-23 23:52:41,952 - INFO - Test Loss: 0.46271655952024915, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:41,952 - INFO - Iteration 41
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,073 - INFO - Train Loss: 0.4830723805931018, Train Accuracy: 0.7755846524656375
+2024-09-23 23:52:42,073 - INFO - Test Loss: 0.4626250432884239, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:42,074 - INFO - Iteration 42
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,189 - INFO - Train Loss: 0.48357396558795035, Train Accuracy: 0.7754907263067476
+2024-09-23 23:52:42,189 - INFO - Test Loss: 0.4627755545618544, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:42,189 - INFO - Iteration 43
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,300 - INFO - Train Loss: 0.48289816220475085, Train Accuracy: 0.7753388881979854
+2024-09-23 23:52:42,301 - INFO - Test Loss: 0.46272951384270083, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:42,301 - INFO - Iteration 44
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,426 - INFO - Train Loss: 0.4825957764226232, Train Accuracy: 0.7754673962608299
+2024-09-23 23:52:42,426 - INFO - Test Loss: 0.4626030204005442, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:42,426 - INFO - Iteration 45
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,545 - INFO - Train Loss: 0.4829309078337773, Train Accuracy: 0.7745197168857432
+2024-09-23 23:52:42,545 - INFO - Test Loss: 0.4625990168060415, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:42,545 - INFO - Iteration 46
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,662 - INFO - Train Loss: 0.4824869876275489, Train Accuracy: 0.7753878394504758
+2024-09-23 23:52:42,663 - INFO - Test Loss: 0.4627040739715729, Test Accuracy: 0.8089171974522293
+2024-09-23 23:52:42,663 - INFO - Iteration 47
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,777 - INFO - Train Loss: 0.48209024825638885, Train Accuracy: 0.7758207934336525
+2024-09-23 23:52:42,777 - INFO - Test Loss: 0.4625823177617614, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:42,777 - INFO - Iteration 48
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:42,919 - INFO - Train Loss: 0.48154989227623934, Train Accuracy: 0.7762360758256791
+2024-09-23 23:52:42,919 - INFO - Test Loss: 0.46251246833385523, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:42,919 - INFO - Iteration 49
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:43,039 - INFO - Train Loss: 0.4811310224258715, Train Accuracy: 0.7766073871409028
+2024-09-23 23:52:43,039 - INFO - Test Loss: 0.4624581035032131, Test Accuracy: 0.802547770700637
+2024-09-23 23:52:43,039 - INFO - Iteration 50
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/base.py:486: UserWarning: X has feature names, but LogisticRegression was fitted without feature names
+  warnings.warn(
+2024-09-23 23:52:43,158 - INFO - Train Loss: 0.4815820002357972, Train Accuracy: 0.7759448512647193
+2024-09-23 23:52:43,158 - INFO - Test Loss: 0.46240155124140403, Test Accuracy: 0.802547770700637

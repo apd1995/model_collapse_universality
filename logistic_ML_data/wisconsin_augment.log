@@ -1,0 +1,286 @@
+2024-09-23 23:02:05,413 - INFO - Iteration 1
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:07,123 - INFO - Training loss: 0.036858072849019416, Training accuracy: 0.9886934673366834
+2024-09-23 23:02:07,123 - INFO - Test loss: 0.10192663800764927, Test accuracy: 0.9649122807017544
+2024-09-23 23:02:07,123 - INFO - Iteration 2
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:08,885 - INFO - Training loss: 0.03716060971629587, Training accuracy: 0.983249581239531
+2024-09-23 23:02:08,886 - INFO - Test loss: 0.10178657366437645, Test accuracy: 0.9707602339181286
+2024-09-23 23:02:08,886 - INFO - Iteration 3
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:10,938 - INFO - Training loss: 0.036906672743030694, Training accuracy: 0.9830402010050251
+2024-09-23 23:02:10,938 - INFO - Test loss: 0.08920045814973782, Test accuracy: 0.9707602339181286
+2024-09-23 23:02:10,938 - INFO - Iteration 4
+2024-09-23 23:02:12,936 - INFO - Training loss: 0.03522092921907304, Training accuracy: 0.9824120603015075
+2024-09-23 23:02:12,936 - INFO - Test loss: 0.1112825907286061, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:12,936 - INFO - Iteration 5
+2024-09-23 23:02:14,715 - INFO - Training loss: 0.03735914784656303, Training accuracy: 0.983249581239531
+2024-09-23 23:02:14,715 - INFO - Test loss: 0.09296340363625463, Test accuracy: 0.9649122807017544
+2024-09-23 23:02:14,715 - INFO - Iteration 6
+2024-09-23 23:02:17,521 - INFO - Training loss: 0.036985053701286026, Training accuracy: 0.9816941852117731
+2024-09-23 23:02:17,522 - INFO - Test loss: 0.10478696109496385, Test accuracy: 0.9649122807017544
+2024-09-23 23:02:17,522 - INFO - Iteration 7
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:20,542 - INFO - Training loss: 0.03565232593504687, Training accuracy: 0.9817839195979899
+2024-09-23 23:02:20,542 - INFO - Test loss: 0.11377606429532751, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:20,543 - INFO - Iteration 8
+2024-09-23 23:02:23,325 - INFO - Training loss: 0.038174676382971943, Training accuracy: 0.9807370184254607
+2024-09-23 23:02:23,325 - INFO - Test loss: 0.10907779680289985, Test accuracy: 0.9649122807017544
+2024-09-23 23:02:23,325 - INFO - Iteration 9
+2024-09-23 23:02:26,426 - INFO - Training loss: 0.03895152487978876, Training accuracy: 0.9804020100502513
+2024-09-23 23:02:26,426 - INFO - Test loss: 0.11834255717171328, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:26,426 - INFO - Iteration 10
+2024-09-23 23:02:29,470 - INFO - Training loss: 0.03798131205940193, Training accuracy: 0.9808131566925536
+2024-09-23 23:02:29,470 - INFO - Test loss: 0.11616317101035922, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:29,470 - INFO - Iteration 11
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:33,423 - INFO - Training loss: 0.038979610714637986, Training accuracy: 0.9809463986599665
+2024-09-23 23:02:33,423 - INFO - Test loss: 0.10248296990024917, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:33,423 - INFO - Iteration 12
+2024-09-23 23:02:37,654 - INFO - Training loss: 0.03867345810888609, Training accuracy: 0.9816389640510244
+2024-09-23 23:02:37,654 - INFO - Test loss: 0.10858373168940126, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:37,654 - INFO - Iteration 13
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:42,170 - INFO - Training loss: 0.038193936319593585, Training accuracy: 0.9818736539842068
+2024-09-23 23:02:42,170 - INFO - Test loss: 0.11378130813653345, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:42,171 - INFO - Iteration 14
+2024-09-23 23:02:46,697 - INFO - Training loss: 0.03796429024668397, Training accuracy: 0.9817420435510887
+2024-09-23 23:02:46,697 - INFO - Test loss: 0.1238700788677779, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:46,697 - INFO - Iteration 15
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:02:51,696 - INFO - Training loss: 0.037542015811465206, Training accuracy: 0.9819409547738693
+2024-09-23 23:02:51,696 - INFO - Test loss: 0.109265926768063, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:51,696 - INFO - Iteration 16
+2024-09-23 23:02:56,423 - INFO - Training loss: 0.03747029790603156, Training accuracy: 0.9827076559266923
+2024-09-23 23:02:56,423 - INFO - Test loss: 0.1267838050543743, Test accuracy: 0.9590643274853801
+2024-09-23 23:02:56,424 - INFO - Iteration 17
+2024-09-23 23:03:00,963 - INFO - Training loss: 0.037114558521462775, Training accuracy: 0.9825516471245115
+2024-09-23 23:03:00,964 - INFO - Test loss: 0.11693091066970261, Test accuracy: 0.9590643274853801
+2024-09-23 23:03:00,964 - INFO - Iteration 18
+2024-09-23 23:03:06,504 - INFO - Training loss: 0.03688650611854039, Training accuracy: 0.9822798201533985
+2024-09-23 23:03:06,504 - INFO - Test loss: 0.12208067328496981, Test accuracy: 0.9590643274853801
+2024-09-23 23:03:06,504 - INFO - Iteration 19
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:03:12,662 - INFO - Training loss: 0.03747368698473791, Training accuracy: 0.9816582914572864
+2024-09-23 23:03:12,662 - INFO - Test loss: 0.12564183544069396, Test accuracy: 0.9590643274853801
+2024-09-23 23:03:12,663 - INFO - Iteration 20
+2024-09-23 23:03:17,712 - INFO - Training loss: 0.03905251827898962, Training accuracy: 0.981454893515195
+2024-09-23 23:03:17,713 - INFO - Test loss: 0.11878000807763205, Test accuracy: 0.9649122807017544
+2024-09-23 23:03:17,713 - INFO - Iteration 21
+2024-09-23 23:03:23,377 - INFO - Training loss: 0.038145819203636, Training accuracy: 0.9813841936957515
+2024-09-23 23:03:23,377 - INFO - Test loss: 0.12435180062127672, Test accuracy: 0.9590643274853801
+2024-09-23 23:03:23,377 - INFO - Iteration 22
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:03:30,124 - INFO - Training loss: 0.03799070019621249, Training accuracy: 0.9819750928555823
+2024-09-23 23:03:30,124 - INFO - Test loss: 0.12189757618546064, Test accuracy: 0.9649122807017544
+2024-09-23 23:03:30,124 - INFO - Iteration 23
+2024-09-23 23:03:36,867 - INFO - Training loss: 0.03802211309482858, Training accuracy: 0.9819932998324958
+2024-09-23 23:03:36,867 - INFO - Test loss: 0.10469795126757203, Test accuracy: 0.9649122807017544
+2024-09-23 23:03:36,867 - INFO - Iteration 24
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:03:44,275 - INFO - Training loss: 0.037437642425314346, Training accuracy: 0.9821105527638191
+2024-09-23 23:03:44,276 - INFO - Test loss: 0.10232954989332073, Test accuracy: 0.9649122807017544
+2024-09-23 23:03:44,276 - INFO - Iteration 25
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:03:51,892 - INFO - Training loss: 0.037774406329318395, Training accuracy: 0.9819288751449555
+2024-09-23 23:03:51,892 - INFO - Test loss: 0.11955141380931764, Test accuracy: 0.9649122807017544
+2024-09-23 23:03:51,892 - INFO - Iteration 26
+2024-09-23 23:03:58,832 - INFO - Training loss: 0.03763118760983256, Training accuracy: 0.9817606551274893
+2024-09-23 23:03:58,832 - INFO - Test loss: 0.10817666902461984, Test accuracy: 0.9590643274853801
+2024-09-23 23:03:58,832 - INFO - Iteration 27
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:04:07,064 - INFO - Training loss: 0.03800135014848424, Training accuracy: 0.9820531227566404
+2024-09-23 23:04:07,065 - INFO - Test loss: 0.10709345830109118, Test accuracy: 0.9649122807017544
+2024-09-23 23:04:07,065 - INFO - Iteration 28
+2024-09-23 23:04:13,950 - INFO - Training loss: 0.0381011782555978, Training accuracy: 0.9818922197192861
+2024-09-23 23:04:13,952 - INFO - Test loss: 0.1215168541308108, Test accuracy: 0.9590643274853801
+2024-09-23 23:04:13,952 - INFO - Iteration 29
+2024-09-23 23:04:22,255 - INFO - Training loss: 0.037739814111192024, Training accuracy: 0.9819932998324958
+2024-09-23 23:04:22,256 - INFO - Test loss: 0.11785369337636065, Test accuracy: 0.9590643274853801
+2024-09-23 23:04:22,256 - INFO - Iteration 30
+2024-09-23 23:04:30,006 - INFO - Training loss: 0.037712835149805814, Training accuracy: 0.9825741611282217
+2024-09-23 23:04:30,006 - INFO - Test loss: 0.10345648288517979, Test accuracy: 0.9649122807017544
+2024-09-23 23:04:30,006 - INFO - Iteration 31
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:04:39,399 - INFO - Training loss: 0.038998211761000594, Training accuracy: 0.9821765075376885
+2024-09-23 23:04:39,400 - INFO - Test loss: 0.10645693751222568, Test accuracy: 0.9649122807017544
+2024-09-23 23:04:39,400 - INFO - Iteration 32
+2024-09-23 23:04:47,426 - INFO - Training loss: 0.03849586036042019, Training accuracy: 0.9822597837673215
+2024-09-23 23:04:47,427 - INFO - Test loss: 0.10500692758713412, Test accuracy: 0.9649122807017544
+2024-09-23 23:04:47,427 - INFO - Iteration 33
+2024-09-23 23:04:56,380 - INFO - Training loss: 0.03750406377536534, Training accuracy: 0.9825598581141
+2024-09-23 23:04:56,381 - INFO - Test loss: 0.11743478110278628, Test accuracy: 0.9590643274853801
+2024-09-23 23:04:56,381 - INFO - Iteration 34
+2024-09-23 23:05:05,863 - INFO - Training loss: 0.037137755087379785, Training accuracy: 0.9827709978463748
+2024-09-23 23:05:05,863 - INFO - Test loss: 0.11812490219150146, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:05,863 - INFO - Iteration 35
+2024-09-23 23:05:12,980 - INFO - Training loss: 0.03745544388009539, Training accuracy: 0.9822724734785037
+2024-09-23 23:05:12,980 - INFO - Test loss: 0.12382216343847097, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:12,980 - INFO - Iteration 36
+2024-09-23 23:05:23,407 - INFO - Training loss: 0.03745611922210379, Training accuracy: 0.9824120603015075
+2024-09-23 23:05:23,407 - INFO - Test loss: 0.123419952834859, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:23,407 - INFO - Iteration 37
+2024-09-23 23:05:33,329 - INFO - Training loss: 0.03767979725531723, Training accuracy: 0.9822798201533985
+2024-09-23 23:05:33,329 - INFO - Test loss: 0.10769608785420197, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:33,329 - INFO - Iteration 38
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:05:44,181 - INFO - Training loss: 0.03779526682908161, Training accuracy: 0.9820899368638062
+2024-09-23 23:05:44,182 - INFO - Test loss: 0.12386854278860611, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:44,182 - INFO - Iteration 39
+2024-09-23 23:05:55,009 - INFO - Training loss: 0.037059409912203745, Training accuracy: 0.9828517587939698
+2024-09-23 23:05:55,010 - INFO - Test loss: 0.12287630695901994, Test accuracy: 0.9649122807017544
+2024-09-23 23:05:55,010 - INFO - Iteration 40
+2024-09-23 23:06:06,236 - INFO - Training loss: 0.03691947949485636, Training accuracy: 0.9829023164603505
+2024-09-23 23:06:06,237 - INFO - Test loss: 0.11921778157342187, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:06,237 - INFO - Iteration 41
+2024-09-23 23:06:14,551 - INFO - Training loss: 0.03761788214699316, Training accuracy: 0.9822325915290739
+2024-09-23 23:06:14,551 - INFO - Test loss: 0.10002582692138012, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:14,552 - INFO - Iteration 42
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:06:26,241 - INFO - Training loss: 0.03741176608045931, Training accuracy: 0.9820614701414047
+2024-09-23 23:06:26,241 - INFO - Test loss: 0.12456427009576315, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:26,241 - INFO - Iteration 43
+2024-09-23 23:06:37,165 - INFO - Training loss: 0.03698958888727179, Training accuracy: 0.9829259936043856
+2024-09-23 23:06:37,165 - INFO - Test loss: 0.10802408065845583, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:37,166 - INFO - Iteration 44
+2024-09-23 23:06:47,052 - INFO - Training loss: 0.03702391800758032, Training accuracy: 0.9824120603015075
+2024-09-23 23:06:47,053 - INFO - Test loss: 0.1268409000418648, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:47,053 - INFO - Iteration 45
+2024-09-23 23:06:58,596 - INFO - Training loss: 0.036949966654881435, Training accuracy: 0.9831221324011361
+2024-09-23 23:06:58,597 - INFO - Test loss: 0.1128345942977043, Test accuracy: 0.9649122807017544
+2024-09-23 23:06:58,597 - INFO - Iteration 46
+2024-09-23 23:07:10,736 - INFO - Training loss: 0.036886607356197, Training accuracy: 0.9826258954346199
+2024-09-23 23:07:10,737 - INFO - Test loss: 0.11440039265303914, Test accuracy: 0.9649122807017544
+2024-09-23 23:07:10,737 - INFO - Iteration 47
+2024-09-23 23:07:22,062 - INFO - Training loss: 0.036706741317822526, Training accuracy: 0.9826214405360134
+2024-09-23 23:07:22,062 - INFO - Test loss: 0.11324121248674919, Test accuracy: 0.9649122807017544
+2024-09-23 23:07:22,062 - INFO - Iteration 48
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:07:35,219 - INFO - Training loss: 0.036332523062966304, Training accuracy: 0.983540149728233
+2024-09-23 23:07:35,219 - INFO - Test loss: 0.12159226397606028, Test accuracy: 0.9649122807017544
+2024-09-23 23:07:35,219 - INFO - Iteration 49
+2024-09-23 23:07:44,939 - INFO - Training loss: 0.03633561753613829, Training accuracy: 0.9830150753768844
+2024-09-23 23:07:44,939 - INFO - Test loss: 0.12934437661439618, Test accuracy: 0.9649122807017544
+2024-09-23 23:07:44,939 - INFO - Iteration 50
+/home/groups/donoho/apratimdey/miniforge3/envs/matrixrecovery/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+2024-09-23 23:07:58,811 - INFO - Training loss: 0.03621156160490991, Training accuracy: 0.9835944428022465
+2024-09-23 23:07:58,811 - INFO - Test loss: 0.12377344675459043, Test accuracy: 0.9649122807017544
